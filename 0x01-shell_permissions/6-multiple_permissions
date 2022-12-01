@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod ug+x ,u+r hell
+chmod 754 hell
